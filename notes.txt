@@ -1,0 +1,53 @@
+/* 
+Projects to add to portafolio  REACT 
+portafolio 
+todo App
+
+Ecommerce app NextJS
+
+
+TEST 
+
+type of test 
+
+*Unit test 
+*Integration Test 
+*Automation Test 
+ 
+Scafold - Jasmine, Jest, Mocha
+Asertion library -test that variable have the expected value  -> JAsmine, Jest, Chai
+Test Runner - run our test - Jasmine, Jest, Mocha, karma 
+spy -> indicate the amount of time a function is called 
+
+Behavior driven develpment -> 
+
+
+Jest created by facebook for react 
+Jest allows snapshots 
+
+- Unit test -> dont test the contract - relation between back and front, integration between 2 parties
+
+- Integration test - to exprect side effects - slow and bigger 
+fragile some-times 
+start with unit test and the integration test 
+
+-Automation test 
+UI test, run inside enviroment 
+this test are the hardest 
+cypress
+testcafe
+nightmare 
+webdriver.io - best documentation
+
+Development 
+Jest -> create test 
+- put it in line of test 
+- see if failed or not 
+-check results 
+
+Production - dont test in production
+*/
+
+use assertions with async calls 
+
+mocks - fake a function, spy on the Behavior of a function 
